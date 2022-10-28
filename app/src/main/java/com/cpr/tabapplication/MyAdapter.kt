@@ -4,6 +4,9 @@ import android.content.Context
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentPagerAdapter
+import com.cpr.tabapplication.fragment.Cricket
+import com.cpr.tabapplication.fragment.Football
+import com.cpr.tabapplication.fragment.NBA
 
 internal class MyAdapter(
     var context: Context,
